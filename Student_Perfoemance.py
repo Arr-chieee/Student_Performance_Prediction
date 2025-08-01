@@ -13,7 +13,7 @@ import os
 
 # Page configuration
 st.set_page_config(
-    page_title="Student Performance Predictor",
+    page_title="Student Performance Predictor (Made by: Archit Raj)",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
